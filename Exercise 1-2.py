@@ -25,5 +25,5 @@ strmyRna3 = strmyRna2.replace("G", "t")
 #Printing to show the steps
 print(strmyRna3)
 
-#Printing and changing to upper case
+#Printing and changing letters to upper case
 print(strmyRna3.upper())
