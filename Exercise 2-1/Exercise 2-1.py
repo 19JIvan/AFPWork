@@ -24,4 +24,5 @@ Dnaexon1 = openDnaexon.readline().strip('\n')
 Dnaexon2 = openDnaexon.readline().strip('\n')
 Dnaintron = openDnaintron.readline().strip('\n')
 
+#printing the files
 print("The first exon is {0} the second exon is {1} and the intron is {2} ".format(Dnaexon1, Dnaexon2, Dnaintron))
